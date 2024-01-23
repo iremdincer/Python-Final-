@@ -21,4 +21,9 @@ Sınır çizgilerini belirgenleştirmek içi :
 gdf.plot(column='NUFUS', ax=ax, legend=True, cmap='OrRd', legend_kwds={'label': "Nüfus Yoğunluğu",'orientation': "horizontal"}, linewidth=1, edgecolor='black')
 plt.show()
 
+https://github.com/iremdincer/Python-Final-/issues/3#issue-2096459585
+
+Qgis python ekletisinde aynı kodu yazdığımız zaman yapılan nüfus yoğunluk haritası açılıyor. Aynı zamanda dosya konumundan da tıklayarak aynı analize ulaşılabilir.
+
+
 
