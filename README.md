@@ -25,5 +25,5 @@ https://github.com/iremdincer/Python-Final-/issues/3#issue-2096459585
 
 Qgis python ekletisinde aynı kodu yazdığımız zaman yapılan nüfus yoğunluk haritası açılıyor. Aynı zamanda dosya konumundan da tıklayarak aynı analize ulaşılabilir.
 
-
+https://github.com/iremdincer/Python-Final-/issues/3#issue-2096459585
 
